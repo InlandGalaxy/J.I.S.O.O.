@@ -1,8 +1,6 @@
 
 # J.I.S.O.O.
-This is probably going to be a modded version of Windows 10 called J.I.S.O.O. It's going to be 64bit only and will have some tweaks and installed programs that I will discuss later.
-
-
+This is a modded version of Windows 10 called J.I.S.O.O. made with NTLite. It's 64bit only and has some tweaks and installed programs like deactivated Microsoft Account and some cosmetic things like a pink color scheme.
 
 The name J.I.S.O.O. comes from Kim Ji-soo of BLACKPINK.
 
