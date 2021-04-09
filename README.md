@@ -11,4 +11,4 @@ The name J.I.S.O.O. comes from Kim Ji-soo of the korean girlgroup BLACKPINK. I m
 <img src="https://user-images.githubusercontent.com/65157905/113275663-4bae2b80-92df-11eb-9a1a-1d8d918dd51a.png" width="50" height="87,5"> 
 Get our sister projekt L.I.S.A.
 
-https://github.com/InlandGalaxy/L.I.S.A./
+https://inlandgalaxy.github.io/L.I.S.A./
